@@ -9,5 +9,5 @@ spec:
   lifecycle: unknown
   owner: apps
 relations:
-  - target: Belize
+  - target: component:Belize
     type: consumesApi
