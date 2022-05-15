@@ -8,6 +8,5 @@ spec:
   type: other
   lifecycle: unknown
   owner: apps
-relations:
-  - target: component:Belize
-    type: consumesApi
+  consumesApis:
+    - component:Belize
