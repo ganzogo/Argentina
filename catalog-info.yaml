@@ -8,3 +8,6 @@ spec:
   type: other
   lifecycle: unknown
   owner: apps
+relations:
+  - target: Belize
+    type: consumesApi
