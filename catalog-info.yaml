@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Argentina
+  annotations:
+    github.com/project-slug: ganzogo/Argentina
+spec:
+  type: other
+  lifecycle: unknown
