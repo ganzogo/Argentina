@@ -2,6 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Argentina
+  links:
+    - url: https://one.newrelic.com/dashboards/detail/NDE3MDU3fFZJWnxEQVNIQk9BUkR8MTA4NDk0MQ?filters=%28name%20LIKE%20%27ios%27%20OR%20id%20%3D%20%27ios%27%20OR%20domainId%20%3D%20%27ios%27%29&state=c8d161f1-eb1c-f1c3-8c3c-abe67b413888
+      title: NewRelic Dashboard
+      icon: dashboard
   annotations:
     github.com/project-slug: ganzogo/Argentina
 spec:
