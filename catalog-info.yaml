@@ -8,6 +8,7 @@ metadata:
       icon: dashboard
   annotations:
     github.com/project-slug: ganzogo/Argentina
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
