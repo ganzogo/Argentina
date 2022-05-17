@@ -1,2 +1,5 @@
 site_name: Argentina
 site_url: https://github.com/ganzogo/Argentina
+nav:
+  - Home: index.md
+ 
